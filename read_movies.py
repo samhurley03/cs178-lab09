@@ -30,6 +30,7 @@ def print_movie(movie):
     print(f"  Runtime : {runtime}")
     print()
 
+# adding a random comment to test git
 
 
 def print_all_movies():
